@@ -25,6 +25,7 @@
 		"LinuxNoEditor",
 		"MacNoEditor",
 		"TVOS",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Windows"
 	]
 }
